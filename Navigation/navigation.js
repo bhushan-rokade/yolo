@@ -177,6 +177,7 @@ const styles = StyleSheet.create({
     borderWidth: 0.5,
     height: moderateVerticalScale(50),
     width: moderateVerticalScale(50),
+    borderRadius: scale(30),
     elevation: 5,
   },
   tabLabel: {
